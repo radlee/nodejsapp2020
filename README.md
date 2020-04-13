@@ -1,1 +1,5 @@
-# nodeapp2020
+# nodejsapp2020
+
+- git clone 
+- npm install
+- npm start
